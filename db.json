@@ -1,9 +1,9 @@
 {
-  cliente:
+  "cliente":
   [
     {
-        id: 1,
-        nome:"Rony"
+       "id": 1,
+        "nome":"Rony"
     }
   ]
 }
